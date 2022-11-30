@@ -32,6 +32,7 @@ public class Ejercicios4 {
         System.out.println("Ram: " + ram);
         System.out.println("Memory capacity: " + memoryCapacity);
     }
+
 }
 
  class SmartPhone extends SmartDevice {
